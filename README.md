@@ -1,2 +1,3 @@
 # Skilline
-Проект 5-й недели обучения в #ITGIRLSSCHOOL
+Проект 5-й недели обучения в #ITGIRLSCHOOL
+Верстка на Flexbox.
