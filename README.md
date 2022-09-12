@@ -23,4 +23,4 @@ At that time I was very proud of the result and, though I find it very unperfect
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Skilline]: <alenagm.github.io/skilline/>
+   [Skilline]: <https://alenagm.github.io/Skilline/>
