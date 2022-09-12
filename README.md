@@ -7,9 +7,8 @@ The task was to build a simple landing page using flexbox. In addition, at least
 At that time I was very proud of the result and, though I find it very unperfect now, I want to keep it here without amendment as a souvenir.
 
 <br><br>
-<img width="45%" alt="HomePage" src="../main/screenshots/Capture web_5-9-2022_1591_alenagm.github.io.jpeg">
+<img width="45%" alt="HomePage" src="../main/assets/images/captureweb.png">
 <br><br>
-## Demo
 
 [Demo]
 
@@ -24,4 +23,4 @@ At that time I was very proud of the result and, though I find it very unperfect
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Demo]: <https://alenagm.github.io/XXXXX/?)>
+   [Demo]: <alenagm.github.io/skilline/>
