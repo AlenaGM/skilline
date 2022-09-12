@@ -19,7 +19,7 @@ At that time I was very proud of the result and, though I find it very unperfect
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Flexbox<br>
 
 <br><br> 
-\* _Weeks 4-5 Learning Project in [ITGirlSchool]_ 
+\* _Weeks 4-5 Training Project in [ITGirlSchool]_ 
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
