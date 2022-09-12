@@ -6,11 +6,11 @@ The task was to build a simple landing page using flexbox. In addition, at least
 
 At that time I was very proud of the result and, though I find it very unperfect now, I want to keep it here without amendment as a souvenir.
 
-<br><br>
+<br>
 <img width="45%" alt="HomePage" src="../main/assets/images/captureweb.png">
-<br><br>
 
-[Demo]
+## Demo
+[Skilline]
 
 ## Tech stack
 
@@ -18,9 +18,9 @@ At that time I was very proud of the result and, though I find it very unperfect
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; CSS3<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Flexbox<br>
 
-  
-  \* _Weeks 4-5 Learning Project in [ITGirlSchool]_ 
+<br><br> 
+\* _Weeks 4-5 Learning Project in [ITGirlSchool]_ 
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Demo]: <alenagm.github.io/skilline/>
+   [Skilline]: <alenagm.github.io/skilline/>
