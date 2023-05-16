@@ -1,8 +1,8 @@
 # Skilline
 
-_Skilline_ is my very first html-project and github-repository that was completed on the 5th week of frontent-learning at [ITGirlSchool].
+_Skilline_ is my very first html-project and github-repository that was completed on the 5th week of frontent learning at [ITGirlSchool].
 
-The task was to build a simple landing page using flexbox. In addition, at least 3 selectors, 3 pseudo-elements and a non-standart font were to be used.
+The task was to build a simple landing page using flexbox. In addition, we had to use at least 3 selectors, 3 pseudo-elements and a non-standart font.
 
 At that time I was very proud of the result and, though I find it very unperfect now, I want to keep it here without changes and improvements as a souvenir.
 
