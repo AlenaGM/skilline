@@ -23,4 +23,4 @@ At the time, I was extremely proud of the outcome. Although I now recognize the 
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Skilline]: <https://alenagm.github.io/Skilline/>
+   [Skilline]: <https://alenagm.github.io/skilline/>
